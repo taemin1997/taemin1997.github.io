@@ -1290,6 +1290,11 @@ progress {
     flex: 0 0 auto;
     width: 50%;
   }
+  .col-lg-edit{
+    margin-top: 15px;
+    align-items: center;
+    text-align: center;
+  }
   .col-lg-7 {
     flex: 0 0 auto;
     width: 58.33333333%;
@@ -7402,6 +7407,7 @@ textarea.form-control-lg {
 
 .align-items-center {
   align-items: center !important;
+  justify-content: center;
 }
 
 .align-items-baseline {
@@ -7647,7 +7653,7 @@ textarea.form-control-lg {
 }
 
 .mb-0 {
-  margin-bottom: 0 !important;
+  margin-bottom: 10px !important;
 }
 
 .mb-1 {
