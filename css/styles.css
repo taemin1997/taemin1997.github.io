@@ -10852,3 +10852,7 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+#MyaLink:hover{
+  color: #ffffff;
+}
