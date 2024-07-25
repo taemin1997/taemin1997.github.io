@@ -1293,7 +1293,7 @@ progress {
   .col-lg-edit{
     margin-top: 15px;
     align-items: center;
-    text-align: center;
+    text-align: left;
   }
   .col-lg-7 {
     flex: 0 0 auto;
